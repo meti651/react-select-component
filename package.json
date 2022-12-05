@@ -18,6 +18,9 @@
     "typescript": "^4.9.3",
     "web-vitals": "^2.1.4"
   },
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
   "scripts": {
     "build": "npm run clean && tsc && cp package.json README.md ./dist",
     "test": "react-scripts test",
