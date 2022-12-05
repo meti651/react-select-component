@@ -1,3 +1,4 @@
+import React from 'react'
 import { forwardRef } from 'react'
 import { SelectContext } from './Select.context'
 import { selectReducer, useSelect } from './Select.reducer'

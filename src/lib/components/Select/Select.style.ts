@@ -1,7 +1,7 @@
 import { css } from '@emotion/react'
 import styled from '@emotion/styled'
-import { COLOR } from '../constants'
-import Checkbox from './Checkbox'
+import { COLOR } from '../../../constants'
+import Checkbox from '../Checkbox'
 import { SelectVariant, StyleProps } from './Select.type'
 
 const getSelectStyleByVariant = (variant: SelectVariant = 'black') => {

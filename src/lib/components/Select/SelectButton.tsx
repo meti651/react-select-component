@@ -1,4 +1,5 @@
-import Triangle from './Triangle'
+import React from 'react'
+import Triangle from '../Triangle'
 import { KeyboardEventHandler } from 'react'
 import { useSelectContext } from './Select.context'
 import { DropDown } from './Select.style'

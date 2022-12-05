@@ -1,3 +1,4 @@
+import React from 'react'
 import { InputHTMLAttributes } from 'react'
 import CheckboxElement from './Checkbox.style'
 

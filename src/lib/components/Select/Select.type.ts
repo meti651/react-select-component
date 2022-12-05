@@ -1,3 +1,4 @@
+import React from 'react'
 import { HTMLAttributes } from 'react'
 import { selectOptions } from './Select.reducer'
 

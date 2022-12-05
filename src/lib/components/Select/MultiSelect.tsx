@@ -1,3 +1,4 @@
+import React from 'react'
 import { forwardRef, useEffect } from 'react'
 import { SelectContext } from './Select.context'
 import { multiSelectReducer, useSelect } from './Select.reducer'

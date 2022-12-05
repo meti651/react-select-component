@@ -1,5 +1,6 @@
-import { getByText, render, renderHook, screen } from 'app/testUtils'
-import Select from './components'
+import React from 'react'
+import { getByText, render, renderHook, screen } from '@testing-library/react'
+import Select from '.'
 import MultiSelect from './MultiSelect'
 import userEvent from '@testing-library/user-event'
 import Options from './Options'

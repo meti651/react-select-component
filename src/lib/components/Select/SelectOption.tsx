@@ -1,3 +1,4 @@
+import React from 'react'
 import { KeyboardEventHandler } from 'react'
 import { useSelectContext } from './Select.context'
 import { OptionProps } from './Select.type'
